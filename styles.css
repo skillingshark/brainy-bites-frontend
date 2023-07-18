@@ -292,6 +292,7 @@ body::-webkit-scrollbar {
   #about {
     padding: 25px 0;
   }
+ 
   .about_row {
     display: flex;
     justify-content: center;
@@ -304,8 +305,9 @@ body::-webkit-scrollbar {
   }
   #btn1 {
     margin-top: 20px;
-    padding: 10px 10px;
-    border-radius: 15px;
+    padding: 10px 20px;
+    border-radius: 25px;
+    font-size: 20px;
   }
   .about_column img {
     width: 500px;
